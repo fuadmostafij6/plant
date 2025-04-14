@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "342958754406",
+    "project_id": "plant-c85af",
+    "storage_bucket": "plant-c85af.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342958754406:android:10153c096a6b7e6190bba7",
+        "android_client_info": {
+          "package_name": "com.example.plant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjaxALSffEoebC1kraqRaR546bOq5dx2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
